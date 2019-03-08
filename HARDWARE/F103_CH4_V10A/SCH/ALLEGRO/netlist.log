@@ -1,0 +1,63 @@
+{ Using PSTWRITER 17.2.0 d001Mar-08-2019 at 09:41:35 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.36" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "CTL_SENSOR".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.41" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "LED0".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.53" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "IIC_SCL".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.52" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "IIC_SDA".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.50" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "KEY1".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.58" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_D6".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.20" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "F_CS".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.28" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_D2".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.57" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_D5".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.27" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_D1".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.26" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_D0".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.37" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_RD".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.39" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_DC".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.15" ignored for U2: SCH, 02 MCU&SENSOR (304.80, 157.48). Connecting pin to net "OLED_DC".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.40" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_CS".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.56" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_D4".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.38" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_RW".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.59" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_D7".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.60" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "BOOT0".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.25" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "KEY0".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.14" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "WK_UP".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.55" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "OLED_D3".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "J4.1" ignored for J4: SCH, 03 GPRS (27.94, 27.94). Connecting pin to net "N17050921".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "U2.14" ignored for U2: SCH, 02 MCU&SENSOR (304.80, 157.48). Connecting pin to net "NRST".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.29" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "CTL_BEEP".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.34" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "GPRS_PWRKEY".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.33" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "GPRS_RESET".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.22" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "SPI1_MISO".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.23" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "SPI1_MOSI".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.21" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "SPI1_SCK".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.10" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "MQ4_AO".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.16" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "USART2_TX".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "U7.6" ignored for U7: SCH, 03 GPRS (55.88, 167.64). Connecting pin to net "UIM_VDD".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.9" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "ADC_USB".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.8" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "ADC_BAT".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "U9.9" ignored for U9: SCH, 04 POWER (78.74, 149.86). Connecting pin to net "N17058321".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.54" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "LED1".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.3" ignored for U4: SCH, 02 MCU&SENSOR (152.40, 210.82). Connecting pin to net "GND".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.17" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "USART2_RX".
+#40 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.35" ignored for U1: SCH, 02 MCU&SENSOR (71.12, 22.86). Connecting pin to net "CTL_GPRS".
+#41 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_HEADER4X1-2R54-M_HEADER4X1-2R54-M" is renamed to "CONN RCPT 4_HEADER4X1-2R54-M_HE".
+#42 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L3015_SWPA3015S2R2NT" is renamed to "IND_BEAD_0805_600OHM_1_L3015_SW".
+#43 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L6028_SWPA6028S100MT" is renamed to "IND_BEAD_0805_600OHM_1_L6028_SW".
+#44 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04/NI" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#45 WARNING(ORCAP-36006): Part Name "STM32F103RXT6_LQFP64-10X10X0R5_STM32F103RCT6" is renamed to "STM32F103RXT6_LQFP64-10X10X0R5_".
+#46 WARNING(ORCAP-36006): Part Name "MP1540DJ-LF-Z_SOT23-5_MP1540DJ-LF-Z" is renamed to "MP1540DJ-LF-Z_SOT23-5_MP1540DJ-".
+#47 WARNING(ORCAP-36006): Part Name "MQ-4-MODULE_MQ-4-MODULE_MQ-4-MODULE" is renamed to "MQ-4-MODULE_MQ-4-MODULE_MQ-4-MO".
+#48 WARNING(ORCAP-36006): Part Name "PS1240P02BT_PS1240P02BT_PS1240P02BT" is renamed to "PS1240P02BT_PS1240P02BT_PS1240P".
+#49 WARNING(ORCAP-36006): Part Name "MP2162GQH-Z_QFN8-2X1R5X0R5_MP2162GQH-Z" is renamed to "MP2162GQH-Z_QFN8-2X1R5X0R5_MP21".
+#50 WARNING(ORCAP-36006): Part Name "BQ24090_MSOP10-1R80X1R50_BQ24090DGQR" is renamed to "BQ24090_MSOP10-1R80X1R50_BQ2409".
+#51 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-3P-3R2X1R3-SMD_CSTCE8M00G15C99-R0" is renamed to "XTAL_5032_0_X-3P-3R2X1R3-SMD_CS".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\2019-Graduation-Project\HARDWARE\F103_CH4_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\2019-Graduation-Project\HARDWARE\F103_CH4_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\2019-Graduation-Project\HARDWARE\F103_CH4_V10A\SCH\ALLEGRO/pstxprt.dat
+
+Loading... H:\2019-Graduation-Project\HARDWARE\F103_CH4_V10A\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...
