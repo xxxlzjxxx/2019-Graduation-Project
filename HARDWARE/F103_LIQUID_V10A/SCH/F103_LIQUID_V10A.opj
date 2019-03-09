@@ -18,7 +18,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "H:\2019-Graduation-Project\HARDWARE\F103_CH4_V10A\SCH\F103_CH4_V10A.DRC")
+       "H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\F103_LIQUID_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -64,7 +64,7 @@
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "H:\2019-Graduation-Project\HARDWARE\F103_CH4_V10A\SCH\ALLEGRO")
+       "H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -83,7 +83,7 @@
     (BOM_Scope "0")
     (BOM_Mode "0")
     (BOM_Report_File
-       "H:\2019-Graduation-Project\HARDWARE\F103_CH4_V10A\SCH\F103_CH4_V10A.BOM")
+       "H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\F103_LIQUID_V10A.BOM")
     (BOM_Merge_Include "FALSE")
     (BOM_Property_Combine_7.0
        "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}\t{Description}\t{Corporation}\t{Type}\t{Note}")
@@ -97,27 +97,37 @@
     (BOM_View_Output "FALSE")
     (Board_sim_option "VHDL_flow")
     (IREFReportFile
-       "H:\2019-Graduation-Project\HARDWARE\F103_CH4_V10A\SCH\F103_CH4_V10A.csv")
+       "H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\F103_LIQUID_V10A.csv")
     (IREFViewOutput "0")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
     (File ".\f103_liquid_v10a.dsn"
       (Type "Schematic Design")))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\f103_liquid_v10a.csv"
+      (Type "Report"))
+    (File ".\f103_liquid_v10a.bom"
+      (Type "Report"))
+    (File ".\f103_liquid_v10a.drc"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\f103_liquid_v10a.dsn")
-      (Path "Design Resources"
-         "H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\f103_liquid_v10a.dsn"
-         "SCH")
+      (Path "Design Resources" ".\f103_liquid_v10a.dsn")
+      (Path "Design Resources" ".\f103_liquid_v10a.dsn" "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources"
-         "H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\f103_liquid_v10a.dsn"
-         "SCH" "02 MCU&TFT"))
+      (Select "Design Resources" ".\f103_liquid_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -127,20 +137,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1352 26 641")
-        (Scroll "0 1456")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -31 208 1538 208 827")
+        (Scroll "480 2119")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "H:\2019-GRADUATION-PROJECT\HARDWARE\F103_LIQUID_V10A\SCH\F103_LIQUID_V10A.DSN")
       (Schematic "SCH")
-      (Page "01 COVER"))
+      (Page "02 MCU&TFT"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 671")
-        (Scroll "0 22")
-        (Zoom "148")
+        (Placement "44 2 3 -1 -1 -8 -31 130 1460 130 749")
+        (Scroll "1108 1220")
+        (Zoom "400")
         (Occurrence "/"))
       (Path
          "H:\2019-GRADUATION-PROJECT\HARDWARE\F103_LIQUID_V10A\SCH\F103_LIQUID_V10A.DSN")
@@ -149,25 +159,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 868 52 671")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1486 156 775")
         (Scroll "0 0")
-        (Zoom "74")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
          "H:\2019-GRADUATION-PROJECT\HARDWARE\F103_LIQUID_V10A\SCH\F103_LIQUID_V10A.DSN")
       (Schematic "SCH")
-      (Page "04 POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 208 1538 208 827")
-        (Scroll "0 848")
-        (Zoom "148")
-        (Occurrence "/"))
-      (Path
-         "H:\2019-GRADUATION-PROJECT\HARDWARE\F103_LIQUID_V10A\SCH\F103_LIQUID_V10A.DSN")
-      (Schematic "SCH")
-      (Page "02 MCU&TFT")))
+      (Page "04 POWER")))
   (PartMRUSelector
     (MQ-4-MODULE
       (FullPartName "MQ-4-MODULE.Normal")

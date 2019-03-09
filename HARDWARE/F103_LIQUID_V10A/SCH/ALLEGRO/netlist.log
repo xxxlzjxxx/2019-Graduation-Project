@@ -1,0 +1,65 @@
+{ Using PSTWRITER 17.2.0 d001Mar-09-2019 at 16:55:11 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.41" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LED0".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.53" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "IIC_SCL".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.52" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "IIC_SDA".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.50" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "KEY1".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.36" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D15".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.20" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "F_CS".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.35" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D14".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.58" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D6".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.33" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D12".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.59" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D7".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.57" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D5".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.30" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D11".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.62" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D9".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.60" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "BOOT0".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.25" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "KEY0".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.14" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "WK_UP".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.27" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D1".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.61" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D8".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.51" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_BL".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.26" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D0".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.29" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D10".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.40" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_CS".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.34" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D13".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.39" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_RS".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.37" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_RD".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.38" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_WR".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.44" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "CTL_BEEP".
+#28 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.28" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D2".
+#29 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.56" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D4".
+#30 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.55" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LCD_D3".
+#31 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.2" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "T_CS".
+#32 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.8" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "T_SCK".
+#33 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.22" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "SPI1_MISO".
+#34 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.9" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "T_PEN".
+#35 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.23" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "SPI1_MOSI".
+#36 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.10" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "T_MISO".
+#37 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.21" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "SPI1_SCK".
+#38 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.11" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "T_MOSI".
+#39 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.15" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "CTL_RELAY1".
+#40 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.24" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "CTL_RELAY2".
+#41 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.54" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "LED1".
+#42 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.3" ignored for U4: SCH, 02 MCU&TFT (147.32, 190.50). Connecting pin to net "GND".
+#43 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.17" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "USART2_RX".
+#44 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.16" ignored for U1: SCH, 02 MCU&TFT (71.12, 22.86). Connecting pin to net "USART2_TX".
+#45 WARNING(ORCAP-36006): Part Name "CAPT_100UF_3528_6R3V_10%_LXXXX_CAP-5R0-13X27_1000UF_50V" is renamed to "CAPT_100UF_3528_6R3V_10%_LXXXX_".
+#46 WARNING(ORCAP-36006): Part Name "CONN RCPT 17X2_1_TFTLCD_3R5_TFTLCD" is renamed to "CONN RCPT 17X2_1_TFTLCD_3R5_TFT".
+#47 WARNING(ORCAP-36006): Part Name "CONN RCPT 4_HEADER4X1-2R54-M_HEADER4X1-2R54-M" is renamed to "CONN RCPT 4_HEADER4X1-2R54-M_HE".
+#48 WARNING(ORCAP-36006): Part Name "HF32FA-G/005-HSL1_0_HFD41_HFD41/12VDC-HS5" is renamed to "HF32FA-G/005-HSL1_0_HFD41_HFD41".
+#49 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_L6028_SLF6028T-4R7M1R6-PF" is renamed to "INDUCTOR_0_L6028_SLF6028T-4R7M1".
+#50 WARNING(ORCAP-36006): Part Name "STM32F103RXT6_LQFP64-10X10X0R5_STM32F103RCT6" is renamed to "STM32F103RXT6_LQFP64-10X10X0R5_".
+#51 WARNING(ORCAP-36006): Part Name "PS1240P02BT_PS1240P02BT_PS1240P02BT" is renamed to "PS1240P02BT_PS1240P02BT_PS1240P".
+#52 WARNING(ORCAP-36006): Part Name "MP2359DJ-LF-Z_SOT23-6_MP2359DJ-LF-Z" is renamed to "MP2359DJ-LF-Z_SOT23-6_MP2359DJ-".
+#53 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-3P-3R2X1R3-SMD_CSTCE8M00G15C99-R0" is renamed to "XTAL_5032_0_X-3P-3R2X1R3-SMD_CS".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\ALLEGRO/pstchip.dat
+
+Loading... H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\ALLEGRO/pstxprt.dat
+
+Loading... H:\2019-Graduation-Project\HARDWARE\F103_LIQUID_V10A\SCH\ALLEGRO/pstxnet.dat
+packaging the design view...

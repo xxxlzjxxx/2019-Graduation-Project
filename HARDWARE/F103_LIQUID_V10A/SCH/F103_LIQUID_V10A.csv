@@ -1,0 +1,5 @@
+Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
+"CTL_RELAY1","OffPage","03 RELAY","3","SCH","Q3.1","200","220","5D","Property Not Present"
+"CTL_RELAY2","OffPage","03 RELAY","3","SCH","Q4.1","200","420","5C","Property Not Present"
+"USART2_TX","OffPage","02 MCU&TFT","2","SCH","J1.1,U1.16","170","240","5D","Property Not Present"
+"USART2_RX","OffPage","02 MCU&TFT","2","SCH","J1.2,U1.17","170","260","5D","Property Not Present"

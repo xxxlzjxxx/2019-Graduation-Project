@@ -1,4 +1,4 @@
-Date and Time : 03/07/19 16:40:19
+Date and Time : 03/09/19 14:50:40
 
 --------------------------------------------------
 Checking Schematic: SCH
@@ -6,5 +6,9 @@ Checking Schematic: SCH
 Checking Electrical Rules 
 
 Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections CTL_RELAY2 
+                    SCH, 03 RELAY  (63.50, 109.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections CTL_RELAY1 
+                    SCH, 03 RELAY  (63.50, 58.42) 
 
 Checking For Unconnected Bus Nets
