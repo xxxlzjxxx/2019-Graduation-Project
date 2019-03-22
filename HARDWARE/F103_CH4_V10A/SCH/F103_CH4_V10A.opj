@@ -123,11 +123,16 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\f103_ch4_v10a.dsn")
-      (Path "Design Resources" ".\f103_ch4_v10a.dsn" "SCH")
+      (Path "Design Resources"
+         "h:\2019-graduation-project\hardware\f103_ch4_v10a\sch\f103_ch4_v10a.dsn")
+      (Path "Design Resources"
+         "h:\2019-graduation-project\hardware\f103_ch4_v10a\sch\f103_ch4_v10a.dsn"
+         "SCH")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\f103_ch4_v10a.dsn"))
+      (Select "Design Resources"
+         "h:\2019-graduation-project\hardware\f103_ch4_v10a\sch\f103_ch4_v10a.dsn"
+         "SCH" "02 MCU&SENSOR"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -137,36 +142,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
-        (Scroll "-34 0")
-        (Zoom "74")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1095 26 641")
+        (Scroll "633 1269")
+        (Zoom "184")
         (Occurrence "/"))
       (Path
          "H:\2019-GRADUATION-PROJECT\HARDWARE\F103_CH4_V10A\SCH\F103_CH4_V10A.DSN")
       (Schematic "SCH")
-      (Page "04 POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1177 104 723")
-        (Scroll "414 2267")
-        (Zoom "296")
-        (Occurrence "/"))
-      (Path
-         "H:\2019-GRADUATION-PROJECT\HARDWARE\F103_CH4_V10A\SCH\F103_CH4_V10A.DSN")
-      (Schematic "SCH")
-      (Page "02 MCU&SENSOR"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1203 130 749")
-        (Scroll "74 1891")
-        (Zoom "296")
-        (Occurrence "/"))
-      (Path
-         "H:\2019-GRADUATION-PROJECT\HARDWARE\F103_CH4_V10A\SCH\F103_CH4_V10A.DSN")
-      (Schematic "SCH")
-      (Page "03 GPRS")))
+      (Page "02 MCU&SENSOR")))
   (PartMRUSelector
     (MQ-4-MODULE
       (FullPartName "MQ-4-MODULE.Normal")
